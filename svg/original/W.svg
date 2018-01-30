@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>W</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="128" cy="128" r="113"></circle>
+    </defs>
+    <g id="Main_Outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="W">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="circle" fill="#FCCC0A" xlink:href="#path-1"></use>
+            <polygon fill="#000000" points="82.9660645 71.8818359 97.5339355 134.93457 100.671631 152.490723 103.884033 135.308105 116.2854 71.8818359 140.565186 71.8818359 153.638916 134.93457 157.000732 152.490723 160.362549 135.606934 175.079834 71.8818359 198.463135 71.8818359 167.459717 182 145.49585 182 132.197998 117.602539 128.313232 96.3110352 124.428467 117.602539 111.130615 182 89.7644043 182 58.5368652 71.8818359"></polygon>
+        </g>
+    </g>
+</svg>

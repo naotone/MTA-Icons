@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>7 - Rect</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="128 0 -7.10542736e-15 128 128 256 256 128"></polygon>
+    </defs>
+    <g id="Main_Outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7---Rect">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="rect" fill="#B933AD" xlink:href="#path-1"></use>
+            <path d="M169.137939,89.7539062 C165.950424,92.8916173 161.517851,98.4821375 155.840088,106.525635 C150.162325,114.569132 145.406025,122.873981 141.571045,131.44043 C138.532944,138.164096 135.793713,146.381787 133.353271,156.09375 C130.91283,165.805713 129.692627,173.774383 129.692627,180 L107.579346,180 C108.22681,160.576075 114.601746,140.380476 126.704346,119.412598 C134.523721,106.413509 141.072972,97.3491467 146.352295,92.2192383 L92.3391113,92.2192383 L92.6379395,73.0942383 L169.137939,73.0942383 L169.137939,89.7539062 Z" id="7" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

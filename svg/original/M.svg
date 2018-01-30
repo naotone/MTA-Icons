@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>M</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="128" cy="128" r="113"></circle>
+    </defs>
+    <g id="Main_Outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="circle" fill="#FF6319" xlink:href="#path-1"></use>
+            <path d="M149.417969,71.8818359 L182.513184,71.8818359 L182.513184,182 L161.072266,182 L161.072266,107.51709 C161.072266,105.375478 161.097168,102.374775 161.146973,98.5148926 C161.196778,94.65501 161.22168,91.6792097 161.22168,89.5874023 L140.378418,182 L118.041016,182 L97.347168,89.5874023 C97.347168,91.6792097 97.3720701,94.65501 97.421875,98.5148926 C97.4716799,102.374775 97.496582,105.375478 97.496582,107.51709 L97.496582,182 L76.0556641,182 L76.0556641,71.8818359 L109.524414,71.8818359 L129.545898,158.467285 L149.417969,71.8818359 Z" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

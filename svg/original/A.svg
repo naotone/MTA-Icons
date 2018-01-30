@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>A</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="128" cy="128" r="113"></circle>
+    </defs>
+    <g id="Main_Outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="circle" fill="#0039A6" xlink:href="#path-1"></use>
+            <path d="M115.015381,140.388184 L142.955811,140.388184 L129.209717,97.0581055 L115.015381,140.388184 Z M116.434814,71.8818359 L142.432861,71.8818359 L181.429932,182 L156.477783,182 L149.380615,159.36377 L108.814697,159.36377 L101.19458,182 L77.138916,182 L116.434814,71.8818359 Z" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

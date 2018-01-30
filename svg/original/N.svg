@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>N</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="128" cy="128" r="113"></circle>
+    </defs>
+    <g id="Main_Outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="N">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="circle" fill="#FCCC0A" xlink:href="#path-1"></use>
+            <polygon fill="#000000" points="84.5349121 71.8818359 108.665283 71.8818359 152.518311 148.755371 152.518311 71.8818359 173.959229 71.8818359 173.959229 182 150.949463 182 105.97583 103.781738 105.97583 182 84.5349121 182"></polygon>
+        </g>
+    </g>
+</svg>
